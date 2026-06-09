@@ -91,7 +91,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI261.png' alt="PADG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/TPAMI261.png' alt="PADG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization](https://arxiv.org/pdf/2507.02288)
@@ -104,21 +104,32 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-- **Reasoning-Driven Multimodal LLMs for Domain Generalization**, **Zhipeng Xu**, et al., **ICLR 2026**, Under Review.
-- **Interference-Isolated Elastic Weight Consolidation and Knowledge Calibration for Incremental Object Detection**, De Cheng, Mingyue Zeng, **Zhipeng Xu**, Di Xu, Nannan Wang, Xinbo Gao, Under Review.
-- [**StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning**](https://arxiv.org/pdf/2505.13997), Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan Wang, Xinbo Gao, **ICLR 2026**, Under Review.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26.png' alt="RD-MLDG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Reasoning-Driven Multimodal LLMs for Domain Generalization](https://arxiv.org/pdf/2602.23777)
+
+**Zhipeng Xu**, Zilong Wang, Xinyang Jiang, Dongsheng Li, De Cheng, Nannan Wang
+
+[**Paper**](https://arxiv.org/pdf/2602.23777)
+
+- We proposed **RD-MLDG**, a reasoning-driven multimodal LLM framework for domain generalization, which leverages structured reasoning to enhance domain-invariant learning and improve cross-domain generalization.
+</div>
+</div>
+
+- [**Interference-Isolated Elastic Weight Consolidation and Knowledge Calibration for Incremental Object Detection**](https://openreview.net/pdf?id=VrXdmCjni4), De Cheng, Mingyue Zeng, **Zhipeng Xu**, Di Xu, Nannan Wang, Xinbo Gao, **ICLR 2026**.
+  
+- [**StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning**](https://arxiv.org/pdf/2505.13997), Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan Wang, Xinbo Gao, **ICLR 2026**.
+
+- [**Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection**], Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao, **ICML 2026**.
 
 # 🎖 Honors and Awards
 - *2024-2025*: Academic Year **National Scholarship**.
 - *2023-2024*: Master's **First-Class Scholarship** at XIDIAN University, Top 5%.
 - *2023*: **Outstanding Graduate Representative**, Top 1%.
 
-
-
 # 💬 Academic Services
-- Reviewer for top-tier venues, including **IEEE Transactions on Image Processing (TIP)** and **CVPR**.
-
+- Reviewer for top-tier venues, including **TIP**, **CVPR 2026**, **ECCV 2026** and **NeurIPS 2026**.
 
 # 💻 Internships
 - *2025.06 - Present*, **Microsoft Research Asia (MSRA)**. Supervisors: Zilong Wang, Xinyang Jiang, Dongsheng Li.
