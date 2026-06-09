@@ -104,7 +104,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26.png' alt="RD-MLDG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.png' alt="RD-MLDG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reasoning-Driven Multimodal LLMs for Domain Generalization](https://arxiv.org/pdf/2602.23777)
@@ -117,9 +117,29 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-- [**Interference-Isolated Elastic Weight Consolidation and Knowledge Calibration for Incremental Object Detection**](https://openreview.net/pdf?id=VrXdmCjni4), De Cheng, Mingyue Zeng, **Zhipeng Xu**, Di Xu, Nannan Wang, Xinbo Gao, **ICLR 2026**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR262.png' alt="RD-MLDG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
   
-- [**StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning**](https://arxiv.org/pdf/2505.13997), Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan Wang, Xinbo Gao, **ICLR 2026**.
+[Interference-Isolated Elastic Weight Consolidation and Knowledge Calibration for Incremental Object Detection](https://openreview.net/pdf?id=VrXdmCjni4)
+
+De Cheng, Mingyue Zeng, **Zhipeng Xu**, Di Xu, Nannan Wang, Xinbo Gao
+
+[**Paper**](https://openreview.net/pdf?id=VrXdmCjni4)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR261.png' alt="StPR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning](https://arxiv.org/pdf/2505.13997)
+
+Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan Wang, Xinbo Gao
+
+[**Paper**](https://arxiv.org/pdf/2505.13997)
+
+</div>
+</div>
 
 - [**Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection**], Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao, **ICML 2026**.
 
