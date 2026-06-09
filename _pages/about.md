@@ -117,7 +117,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR262.png' alt="RD-MLDG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR262.png' alt="IKI-EWC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Interference-Isolated Elastic Weight Consolidation and Knowledge Calibration for Incremental Object Detection](https://openreview.net/pdf?id=VrXdmCjni4)
@@ -141,7 +141,17 @@ Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan
 </div>
 </div>
 
-- [**Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection**], Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao, **ICML 2026**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML26.png' alt="SIKD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection]
+
+Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao
+
+[**Paper**]
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024-2025*: Academic Year **National Scholarship**.
