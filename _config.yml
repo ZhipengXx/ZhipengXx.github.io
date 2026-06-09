@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhipeng Xu"
-description              : "Hello"
+description              : "A Conviction That Strides Forth, Head Held High"
 repository               : "ZhipengXx/ZhipengXx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xu Zhipeng（许志鹏）"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "The third year student in Xidian University"
+  avatar           : "my.png"
+  bio              : 
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
