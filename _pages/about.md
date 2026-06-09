@@ -91,7 +91,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/500x300.png' alt="PADG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI261.png' alt="PADG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization](https://arxiv.org/pdf/2507.02288)
@@ -109,48 +109,11 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 - [**StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning**](https://arxiv.org/pdf/2505.13997), Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan Wang, Xinbo Gao, **ICLR 2026**, Under Review.
 
 
-# 🔬 Research Experience
-
-**Reasoning-Driven Multimodal LLMs for Domain Generalization**  
-*XIDIAN University & MSRA*
-- Designed **RD-MLDG**, a reasoning-classification linked framework for multimodal domain generalization. RD-MLDG leverages structured reasoning to enhance domain-invariant learning and improves cross-domain generalization on the DomainBed benchmark suite.
-- Submitted to **ICLR 2026** as a first-author work.
-
-**Pathology-Agent: Collaborative Task Decomposition with Multiple Foundation Models**  
-*XIDIAN University & MSRA*
-- Developed **Pathology-Agent**, a collaborative agent that coordinates multiple pathology foundation models for clinical subtasks.
-
-**Disentangled Prompt Representation for Domain Generalization**  
-*XIDIAN University & MSRA*
-- Contributed to the core idea, algorithm design, theoretical analysis, and experiments.
-- Proposed a text-guided prompt disentanglement framework for learning domain-invariant visual representations.
-- Accepted by **CVPR 2024**.
-
-**Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization**  
-*XIDIAN University & MSRA*
-- Led the innovation, algorithm design, theoretical analysis, and experimental implementation.
-- Proposed a progressive adversarial prompt learning scheme that generates diverse domains while preserving categorical consistency.
-- Accepted by **CVPR 2025**.
-
-**Prompt Disentanglement via Language Guidance and Representation Alignment for Domain Generalization**  
-*XIDIAN University & MSRA*
-- Extended the CVPR 2024 framework with WERA and DSPL to improve robustness under unseen domain shifts.
-- Received a **major revision** from **IEEE TPAMI**.
-
-
 # 🎖 Honors and Awards
 - *2024-2025*: Academic Year **National Scholarship**.
 - *2023-2024*: Master's **First-Class Scholarship** at XIDIAN University, Top 5%.
-- *2023*: Qualification for Direct-Entry Master's Degree.
-- *2023*: **Outstanding Graduate Representative**, Top 10 out of 4,000 students.
-- *2022-2023*: Undergraduate **First-Class Scholarship**, Top 1%.
-- *2022*: Bronze Medal, ICPC Regional Contest, Hefei Site.
-- *2022*: Silver Medal, ICPC Regional Invitational Contest, Xi'an Site.
+- *2023*: **Outstanding Graduate Representative**, Top 1%.
 
-
-# 📖 Educations
-- *2023.09 - 2026.06*, **MEng in Information and Communication Engineering**, XIDIAN University, Xi'an, China. Advisors: De Cheng, Nannan Wang, Xinbo Gao. GPA: 3.6/4.0.
-- *2019.09 - 2023.06*, **BEng in Information and Communication Engineering**, XIDIAN University, Xi'an, China. GPA: 3.7/4.0.
 
 
 # 💬 Academic Services
