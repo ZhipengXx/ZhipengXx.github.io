@@ -78,7 +78,7 @@ Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="DPR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.png' alt="DPR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
