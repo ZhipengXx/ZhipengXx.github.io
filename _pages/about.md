@@ -74,7 +74,7 @@ Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
 
-- * We propose **PAPT** for single domain generalization, which uses pre-trained text-to-image foundation models to synthesize diverse training domains from a single source domain. Instead of relying on hand-crafted textual styles, PAPT learns abstract **category prompts** and **domain prompts** to preserve class semantics while generating diverse domain shifts, and further designs a progressive adversarial training strategy to continuously expand the domain prompt pool.
+* We propose **PAPT** for single domain generalization, which uses pre-trained text-to-image foundation models to synthesize diverse training domains from a single source domain. Instead of relying on hand-crafted textual styles, PAPT learns abstract **category prompts** and **domain prompts** to preserve class semantics while generating diverse domain shifts, and further designs a progressive adversarial training strategy to continuously expand the domain prompt pool.
 </div>
 </div>
 
@@ -87,7 +87,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
 
-- * We propose **DPR** for domain generalization, which leverages the easier disentanglement of language prompts to guide visual representation learning. Specifically, DPR uses LLM-generated domain-invariant and domain-specific descriptions to learn disentangled prompts, and designs **Domain-Specific Prototype Learning (DSPL)** to combine invariant prediction with relevant domain-specific knowledge for robust unseen-domain recognition.
+* We propose **DPR** for domain generalization, which leverages the easier disentanglement of language prompts to guide visual representation learning. Specifically, DPR uses LLM-generated domain-invariant and domain-specific descriptions to learn disentangled prompts, and designs **Domain-Specific Prototype Learning (DSPL)** to combine invariant prediction with relevant domain-specific knowledge for robust unseen-domain recognition.
 </div>
 </div>
 
@@ -100,7 +100,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 
 [**Paper**](https://arxiv.org/pdf/2507.02288)
 
-- * We propose **PADG** for domain generalization, which combines LLM-guided prompt disentanglement with worst-case representation alignment. PADG uses **CMD** to learn domain-invariant and domain-specific visual features from disentangled textual guidance, designs **WERA** to simulate worst-case domain shifts and enforce representation alignment, and further adopts **DSPL** to integrate domain-invariant and domain-specific knowledge during inference.
+* We propose **PADG** for domain generalization, which combines LLM-guided prompt disentanglement with worst-case representation alignment. PADG uses **CMD** to learn domain-invariant and domain-specific visual features from disentangled textual guidance, designs **WERA** to simulate worst-case domain shifts and enforce representation alignment, and further adopts **DSPL** to integrate domain-invariant and domain-specific knowledge during inference.
 </div>
 </div>
 
@@ -113,7 +113,7 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 
 [**Paper**](https://arxiv.org/pdf/2602.23777) [**code**](https://github.com/ZhipengXx/DomainBed-Reasoning/tree/main)
 
-- * We propose **RD-MLDG**, a reasoning-driven multimodal LLM framework for domain generalization, which leverages class-relevant reasoning chains as domain-invariant supervision beyond visual features. We construct **DomainBed-Reasoning** to study reasoning under domain shift, and design **MTCT** to align reasoning supervision with direct classification and **SARR** to reduce reasoning-pattern mismatch through self-aligned reasoning refinement, enabling robust and interpretable out-of-domain generalization.
+* We propose **RD-MLDG**, a reasoning-driven multimodal LLM framework for domain generalization, which leverages class-relevant reasoning chains as domain-invariant supervision beyond visual features. We construct **DomainBed-Reasoning** to study reasoning under domain shift, and design **MTCT** to align reasoning supervision with direct classification and **SARR** to reduce reasoning-pattern mismatch through self-aligned reasoning refinement, enabling robust and interpretable out-of-domain generalization.
 </div>
 </div>
 
@@ -126,7 +126,7 @@ De Cheng, Mingyue Zeng, **Zhipeng Xu**, Di Xu, Nannan Wang, Xinbo Gao
 
 [**Paper**](https://openreview.net/pdf?id=VrXdmCjni4)
 
-- * We propose **IIKC** for incremental object detection, which tackles catastrophic forgetting by explicitly modeling task interference between old and new classes. The core **IKI-EWC** module isolates conflicting knowledge caused by unlabeled objects being learned as background, and selectively regularizes model parameters to preserve useful old knowledge while suppressing interference. In addition, **PKC** calibrates old-class prototypes through a learnable projection layer and combines them with current-task features to reduce semantic drift in the classification head.
+* We propose **IIKC** for incremental object detection, which tackles catastrophic forgetting by explicitly modeling task interference between old and new classes. The core **IKI-EWC** module isolates conflicting knowledge caused by unlabeled objects being learned as background, and selectively regularizes model parameters to preserve useful old knowledge while suppressing interference. In addition, **PKC** calibrates old-class prototypes through a learnable projection layer and combines them with current-task features to reduce semantic drift in the classification head.
 </div>
 </div>
 
@@ -139,7 +139,7 @@ Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan
 
 [**Paper**](https://arxiv.org/pdf/2505.13997)
 
-- * We propose **StPR**, a unified exemplar-free framework for video class-incremental learning. StPR tackles catastrophic forgetting under spatiotemporal shifts by explicitly disentangling frame-shared semantics and temporal dynamics. Specifically, we design **Frame-Shared Semantics Distillation (FSSD)** to preserve stable semantic channels, and **Temporal Decomposition-based Mixture-of-Experts (TD-MoE)** to dynamically route temporal experts without task IDs or stored exemplars.
+* We propose **StPR**, a unified exemplar-free framework for video class-incremental learning. StPR tackles catastrophic forgetting under spatiotemporal shifts by explicitly disentangling frame-shared semantics and temporal dynamics. Specifically, we design **Frame-Shared Semantics Distillation (FSSD)** to preserve stable semantic channels, and **Temporal Decomposition-based Mixture-of-Experts (TD-MoE)** to dynamically route temporal experts without task IDs or stored exemplars.
 </div>
 </div>
 
@@ -152,7 +152,7 @@ Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao
 
 [**Paper**]
 
-- * We propose **SIKD** for incremental object detection, which leverages **object symbiosis** to preserve knowledge across old and new classes. SIKD designs **SpSD** to distill spatial dependencies from co-occurrence and occlusion regions, and **SeSD** to maintain old-class semantic topology through confidence-weighted prototype rank alignment, enabling a unified feature space that reduces old-new confusion and catastrophic forgetting.
+* We propose **SIKD** for incremental object detection, which leverages **object symbiosis** to preserve knowledge across old and new classes. SIKD designs **SpSD** to distill spatial dependencies from co-occurrence and occlusion regions, and **SeSD** to maintain old-class semantic topology through confidence-weighted prototype rank alignment, enabling a unified feature space that reduces old-new confusion and catastrophic forgetting.
 </div>
 </div>
 
