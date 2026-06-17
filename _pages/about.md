@@ -65,29 +65,16 @@ Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="PAPT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.png' alt="RD-MLDG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
+[Reasoning-Driven Multimodal LLMs for Domain Generalization](https://arxiv.org/pdf/2602.23777)
 
-**Zhipeng Xu**, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
+**Zhipeng Xu**, Zilong Wang, Xinyang Jiang, Dongsheng Li, De Cheng, Nannan Wang
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
+[**Paper**](https://arxiv.org/pdf/2602.23777) [**code**](https://github.com/ZhipengXx/DomainBed-Reasoning/tree/main)
 
-* We propose **PAPT** for single domain generalization, which uses pre-trained text-to-image foundation models to synthesize diverse training domains from a single source domain. Instead of relying on hand-crafted textual styles, PAPT learns abstract **category prompts** and **domain prompts** to preserve class semantics while generating diverse domain shifts, and further designs a progressive adversarial training strategy to continuously expand the domain prompt pool.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.png' alt="DPR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
-
-De Cheng, **Zhipeng Xu**, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
-
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
-
-* We propose **DPR** for domain generalization, which leverages the easier disentanglement of language prompts to guide visual representation learning. Specifically, DPR uses LLM-generated domain-invariant and domain-specific descriptions to learn disentangled prompts, and designs **Domain-Specific Prototype Learning (DSPL)** to combine invariant prediction with relevant domain-specific knowledge for robust unseen-domain recognition.
+* We propose **RD-MLDG**, a reasoning-driven multimodal LLM framework for domain generalization, which leverages class-relevant reasoning chains as domain-invariant supervision beyond visual features. We construct **DomainBed-Reasoning** to study reasoning under domain shift, and design **MTCT** to align reasoning supervision with direct classification and **SARR** to reduce reasoning-pattern mismatch through self-aligned reasoning refinement, enabling robust and interpretable out-of-domain generalization.
 </div>
 </div>
 
@@ -104,18 +91,21 @@ De Cheng, **Zhipeng Xu**, Xinyang Jiang, Dongsheng Li, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026.png' alt="RD-MLDG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML26.png' alt="SIKD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reasoning-Driven Multimodal LLMs for Domain Generalization](https://arxiv.org/pdf/2602.23777)
+[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection]
 
-**Zhipeng Xu**, Zilong Wang, Xinyang Jiang, Dongsheng Li, De Cheng, Nannan Wang
+Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao
 
-[**Paper**](https://arxiv.org/pdf/2602.23777) [**code**](https://github.com/ZhipengXx/DomainBed-Reasoning/tree/main)
+[**Paper**]
 
-* We propose **RD-MLDG**, a reasoning-driven multimodal LLM framework for domain generalization, which leverages class-relevant reasoning chains as domain-invariant supervision beyond visual features. We construct **DomainBed-Reasoning** to study reasoning under domain shift, and design **MTCT** to align reasoning supervision with direct classification and **SARR** to reduce reasoning-pattern mismatch through self-aligned reasoning refinement, enabling robust and interpretable out-of-domain generalization.
+* We propose **SIKD** for incremental object detection, which leverages **object symbiosis** to preserve knowledge across old and new classes. SIKD designs **SpSD** to distill spatial dependencies from co-occurrence and occlusion regions, and **SeSD** to maintain old-class semantic topology through confidence-weighted prototype rank alignment, enabling a unified feature space that reduces old-new confusion and catastrophic forgetting.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="PAPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR262.png' alt="IIKC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,16 +133,26 @@ Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML26.png' alt="SIKD" width="100%"></div></div>
+[Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
+
+**Zhipeng Xu**, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
+
+* We propose **PAPT** for single domain generalization, which uses pre-trained text-to-image foundation models to synthesize diverse training domains from a single source domain. Instead of relying on hand-crafted textual styles, PAPT learns abstract **category prompts** and **domain prompts** to preserve class semantics while generating diverse domain shifts, and further designs a progressive adversarial training strategy to continuously expand the domain prompt pool.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.png' alt="DPR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection]
+[Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
 
-Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao
+De Cheng, **Zhipeng Xu**, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao
 
-[**Paper**]
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)
 
-* We propose **SIKD** for incremental object detection, which leverages **object symbiosis** to preserve knowledge across old and new classes. SIKD designs **SpSD** to distill spatial dependencies from co-occurrence and occlusion regions, and **SeSD** to maintain old-class semantic topology through confidence-weighted prototype rank alignment, enabling a unified feature space that reduces old-new confusion and catastrophic forgetting.
+* We propose **DPR** for domain generalization, which leverages the easier disentanglement of language prompts to guide visual representation learning. Specifically, DPR uses LLM-generated domain-invariant and domain-specific descriptions to learn disentangled prompts, and designs **Domain-Specific Prototype Learning (DSPL)** to combine invariant prediction with relevant domain-specific knowledge for robust unseen-domain recognition.
 </div>
 </div>
 
