@@ -21,6 +21,29 @@ I am currently a third-year master’s student at Xidian University, the State K
 
 Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.xidian.edu.cn). You can also find my profile on <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+## Education
+
+<div class="edu-card">
+  <div class="edu-degree">
+    Ph.D. (in progress), The Hong Kong University of Science and Technology
+  </div>
+  <div class="edu-year">2026–</div>
+</div>
+
+<div class="edu-card">
+  <div class="edu-degree">
+    M.S., Xidian University
+  </div>
+  <div class="edu-year">2023–2026</div>
+</div>
+
+<div class="edu-card">
+  <div class="edu-degree">
+    B.S., Xidian University 
+  </div>
+  <div class="edu-year">2019–2023</div>
+</div>
+
 <style>
 .compact-news ul {
   margin-top: 0.4em;
