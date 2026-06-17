@@ -104,9 +104,6 @@ Mingyue Zeng, De Cheng, **Zhipeng Xu**, Huaijie Wang, Nannan Wang, Xinbo Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="PAPT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR262.png' alt="IIKC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -132,6 +129,9 @@ Huaijie Wang, De Cheng, Guozhang Li, **Zhipeng Xu**, Lingfeng He, Jie Li, Nannan
 * We propose **StPR**, a unified exemplar-free framework for video class-incremental learning. StPR tackles catastrophic forgetting under spatiotemporal shifts by explicitly disentangling frame-shared semantics and temporal dynamics. Specifically, we design **Frame-Shared Semantics Distillation (FSSD)** to preserve stable semantic channels, and **Temporal Decomposition-based Mixture-of-Experts (TD-MoE)** to dynamically route temporal experts without task IDs or stored exemplars.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="PAPT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html)
 
