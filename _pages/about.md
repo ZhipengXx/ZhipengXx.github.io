@@ -21,6 +21,70 @@ I am currently a third-year master’s student at Xidian University, the State K
 
 Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.xidian.edu.cn). You can also find my profile on <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+<style>
+.education-section {
+  margin-top: 40px;
+}
+
+.education-section h2 {
+  font-size: 32px;
+  font-weight: 800;
+  color: #3f454d;
+  margin-bottom: 22px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.edu-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background: #eefaff;
+  border: 1.5px solid #d6f0ff;
+  border-radius: 14px;
+
+  padding: 24px 28px;
+  margin-bottom: 18px;
+
+  color: #00638f;
+  font-family: Georgia, "Times New Roman", serif;
+  box-sizing: border-box;
+}
+
+.edu-degree {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.edu-year {
+  font-size: 25px;
+  font-weight: 500;
+  white-space: nowrap;
+  margin-left: 30px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .edu-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 18px 20px;
+  }
+
+  .edu-degree {
+    font-size: 22px;
+  }
+
+  .edu-year {
+    font-size: 20px;
+    margin-left: 0;
+    margin-top: 8px;
+  }
+}
+</style>
+
 ## Education
 
 <div class="edu-card">
