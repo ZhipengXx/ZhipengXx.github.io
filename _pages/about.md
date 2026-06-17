@@ -79,7 +79,7 @@ Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.
 </div>
 
 <div class="edu-card">
-  <div class="edu-degree">B.S., Xidian University (Qian Xuesen Experimental Class)</div>
+  <div class="edu-degree">B.S., Xidian University</div>
   <div class="edu-year">2019–2023</div>
 </div>
 
