@@ -29,39 +29,41 @@ Please feel free to contact me via [djddskkekk@gmail.com](mailto:xu_zhipeng@stu.
   justify-content: space-between;
   align-items: center;
   background: #eefaff;
-  border: 1.5px solid #d6f0ff;
-  border-radius: 14px;
-  padding: 24px 28px;
-  margin-bottom: 18px;
+  border: 1px solid #d6f0ff;
+  border-radius: 10px;
+  padding: 12px 18px;
+  margin-bottom: 12px;
   color: #00638f;
   font-family: Georgia, "Times New Roman", serif;
 }
 
 .edu-degree {
-  font-size: 28px;
+  font-size: 19px;
   font-weight: 700;
+  line-height: 1.35;
 }
 
 .edu-year {
-  font-size: 25px;
+  font-size: 18px;
   white-space: nowrap;
-  margin-left: 30px;
+  margin-left: 24px;
 }
 
 @media (max-width: 768px) {
   .edu-card {
     flex-direction: column;
     align-items: flex-start;
+    padding: 10px 14px;
   }
 
   .edu-degree {
-    font-size: 22px;
+    font-size: 17px;
   }
 
   .edu-year {
-    font-size: 20px;
+    font-size: 16px;
     margin-left: 0;
-    margin-top: 8px;
+    margin-top: 6px;
   }
 }
 </style>
