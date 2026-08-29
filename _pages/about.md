@@ -21,6 +21,18 @@ I am currently a first-year Ph.D. student at The Hong Kong University of Science
 
 Please feel free to contact me via [zxuff@connect.ust.hk](mailto:zxuff@connect.ust.hk). You can also find my profile on <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+<div style="
+  margin: 18px 0;
+  padding: 14px 18px;
+  background-color: #eef9f1;
+  border-left: 4px solid #42a66c;
+  border-radius: 8px;
+  color: #3f4f45;
+  line-height: 1.7;
+">
+I am actively seeking research collaborations in <strong>trustworthy and explainable AI</strong> and <strong>AI for healthcare</strong>, particularly in <strong>domain generalization</strong>, <strong>continual learning</strong>, and <strong>EEG-based brain-computer interfaces</strong>. If our research interests align, please feel free to reach out via <a href="mailto:zxuff@connect.ust.hk">email</a>.
+</div>
+
 # 🎓 Education
 
 <style>
