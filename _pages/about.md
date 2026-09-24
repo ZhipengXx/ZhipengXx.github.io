@@ -120,6 +120,8 @@ I am actively seeking research collaborations in <strong>trustworthy and explain
 
 <div class="compact-news" markdown="1">
 
+- **[2026.09]** One paper about Continue Learning is accepted by NeurIPS'26!
+
 - **[2026.05]** One paper about Continue Learning is accepted by ICML'26!
 
 - **[2026.01]** Two papers about Continue Learning are accepted by ICLR'26!
