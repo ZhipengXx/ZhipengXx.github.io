@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Xiaomeng Li. Prior to my Ph.D., I received both my M.S. and B.S. degrees from Xidian University in 2026 and 2023, respectively. During my master’s studies at the State Key Laboratory of Integrated Services Networks (ISN), I was advised by Prof. De Cheng and Prof. Nannan Wang. I was also fortunate to work as a research intern at Microsoft Research Asia (MSRA). My research interests include **domain generalization**, fine-tuning and **parameter-efficient adaptation of foundation models**, including large language models and multimodal models, and **AI agents**.
-
-Please feel free to contact me via [zxuff@connect.ust.hk](mailto:zxuff@connect.ust.hk). You can also find my profile on <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=IMz0WDcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST). Prior to my Ph.D., I received both my M.S. and B.S. degrees from Xidian University in 2026 and 2023, respectively. During my master’s studies at the State Key Laboratory of Integrated Services Networks (ISN), I was advised by Prof. De Cheng and Prof. Nannan Wang. I was also fortunate to work as a research intern at Microsoft Research Asia (MSRA). My research interests include **domain generalization**, fine-tuning and **parameter-efficient adaptation of foundation models**, including large language models and multimodal models, and **AI agents**.
 
 <div style="
   margin: 18px 0;
@@ -30,8 +28,6 @@ Please feel free to contact me via [zxuff@connect.ust.hk](mailto:zxuff@connect.u
   color: #3f4f45;
   line-height: 1.7;
 ">
-I am actively seeking research collaborations in <strong>trustworthy and explainable AI</strong> and <strong>AI for healthcare</strong>, particularly in <strong>domain generalization</strong>, <strong>continual learning</strong>, and <strong>EEG-based brain-computer interfaces</strong>. If our research interests align, please feel free to reach out via <a href="mailto:zxuff@connect.ust.hk">email</a>.
-</div>
 
 # 🎓 Education
 
