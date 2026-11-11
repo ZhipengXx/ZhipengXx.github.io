@@ -19,16 +19,6 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST). Prior to my Ph.D., I received both my M.S. and B.S. degrees from Xidian University in 2026 and 2023, respectively. During my master’s studies at the State Key Laboratory of Integrated Services Networks (ISN), I was advised by Prof. De Cheng and Prof. Nannan Wang. I was also fortunate to work as a research intern at Microsoft Research Asia (MSRA). My research interests include **domain generalization**, fine-tuning and **parameter-efficient adaptation of foundation models**, including large language models and multimodal models, and **AI agents**.
 
-<div style="
-  margin: 18px 0;
-  padding: 14px 18px;
-  background-color: #eef9f1;
-  border-left: 4px solid #42a66c;
-  border-radius: 8px;
-  color: #3f4f45;
-  line-height: 1.7;
-">
-
 # 🎓 Education
 
 <style>
