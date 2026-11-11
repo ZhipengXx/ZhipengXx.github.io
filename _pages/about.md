@@ -77,11 +77,6 @@ I am currently a first-year Ph.D. student at The Hong Kong University of Science
 </style>
 
 <div class="edu-card">
-  <div class="edu-degree">Ph.D. (in progress), The Hong Kong University of Science and Technology</div>
-  <div class="edu-year">2026–</div>
-</div>
-
-<div class="edu-card">
   <div class="edu-degree">M.S., Xidian University</div>
   <div class="edu-year">2023–2026</div>
 </div>
@@ -127,8 +122,6 @@ I am currently a first-year Ph.D. student at The Hong Kong University of Science
 - **[2026.01]** One paper about Domain Generalization is accepted by ICLR'26!
 
 - **[2026.01]** One paper about Domain Generalization is accepted by TPAMI'26!
-
-- **[2025.12]** I received the official offer from HKUST for Fall 2026!
 
 - **[2025.02]** One paper about Domain Generalization is accepted by CVPR'25!
 
